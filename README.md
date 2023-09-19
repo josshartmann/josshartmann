@@ -35,4 +35,4 @@
 
 🚀 I'm excited to continue this journey, and I invite you to explore my work, provide feedback, or connect with me to discuss opportunities and collaborations.
 
-📧 Feel free to reach out to me at [josshartmann@gmail.com] to initiate a conversation or learn more about my experiences and aspirations. Let's connect and explore the limitless possibilities that technology and data offer!
+📧 Feel free to reach out to me at josshartmann@gmail.com to initiate a conversation or learn more about my experiences and aspirations. Let's connect and explore the limitless possibilities that technology and data offer!
