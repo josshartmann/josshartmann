@@ -14,7 +14,7 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josshartmann&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josshartmann&show_icons=true&count_private=true)
 
 ### Most Used Languages
 
