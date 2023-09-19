@@ -22,7 +22,7 @@ Here's a brief showcase of some of my noteworthy repositories:
 2. **Football Data Import and Table Relationships in PostgreSQL** - This project showcases a Python script in a Jupyter Notebook that imports football data from CSV files into PostgreSQL tables and establishes relationships between the tables. It utilizes pandas for data reading, psycopg2 for database connection, and SQLAlchemy for interaction with the database. The football data used in this project is sourced from the Kaggle dataset: International Football Results from 1872 to 2023.
    - GitHub Repository: [Link](https://github.com/josshartmann/de-football-data)
 
-3. **Data Transformation and Styling for Foreign Trade** - This repository contains Python code and a VBA script that enable the transformation and styling of foreign trade data obtained from the database detailed by NCM (Mercosur Common Nomenclature).
+3. **Data Transformation and for Foreign Trade** - This repository contains Python code and a VBA script that enable the transformation and styling of foreign trade data obtained from the database detailed by NCM (Mercosur Common Nomenclature).
    - GitHub Repository: [Link](https://github.com/josshartmann/de-comex)
 
 4. **Coinmarketcap Spider** - This is a Scrapy spider project designed to scrape data from the CoinMarketCap website. The spider extracts information about cryptocurrencies' names, symbols, and values from the top section of the website. It then iterates over all the pages to collect data from each page.
