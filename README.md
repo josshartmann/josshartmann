@@ -12,14 +12,6 @@
 
 📊 While my background lies in backend development, I'm excited to share that I'm now on a new path. I have a deep interest in data-related fields, especially in building the infrastructure and technology behind data-intensive architectures. My goal is to leverage my programming skills to excel as a data engineer.
 
-### GitHub Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=josshartmann&show_icons=true&count_private=true)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josshartmann&layout=compact)
-
 ### Interests
 
 🌟 My interests revolve around the vast world of data, including data engineering, data analysis, and data science. I'm enthusiastic about:
