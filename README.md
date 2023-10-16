@@ -37,10 +37,6 @@ Here's a brief showcase of some of my noteworthy repositories:
 - Exploring machine learning and artificial intelligence for data-driven insights.
 - Staying up-to-date with the latest trends in data technology and methodologies.
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josshartmann&show_icons=true)
-
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josshartmann&layout=compact)
